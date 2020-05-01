@@ -1,3 +1,6 @@
+// see https://www.youtube.com/watch?v=211t6r12XPQ
+// Video and presumably the original version of this script released under CC Attribution license
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
