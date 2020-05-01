@@ -1,4 +1,4 @@
-// see https://www.youtube.com/watch?v=Ll3yujn9GVQ
+// see https://www.youtube.com/watch?v=Ll3yujn9GVQ Matt Gambell "Game Dev Guide"
 // Video and presumably the original version of this script released under CC Attribution license
 
 using System.Collections;
