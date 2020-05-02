@@ -1,5 +1,6 @@
 // see https://www.youtube.com/watch?v=Ll3yujn9GVQ Matt Gambell "Game Dev Guide"
 // Video and presumably the original version of this script released under CC Attribution license
+// requires LeanTween https://assetstore.unity.com/packages/tools/animation/leantween-3595
 
 using System.Collections;
 using System.Collections.Generic;
